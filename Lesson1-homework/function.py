@@ -6,7 +6,3 @@ def get_summ(one, two, delimeter = '&'):
 
 result = get_summ('Learn', 'python')
 print(result)
-
-
-#Задаие №2:
-
