@@ -1,2 +1,5 @@
-/.vscode/
-/.vscode/*
+# Visual Studio Code related
+.classpath
+.project
+.settings/
+.vscode/
